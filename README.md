@@ -1,1 +1,1 @@
-# maplibre-vectortilelayer-demo
+# MapLibre GL JS - Vector Tile Layer Demo
