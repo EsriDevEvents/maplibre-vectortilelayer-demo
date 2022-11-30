@@ -10,7 +10,7 @@ A MapLibre GL JS map using an ArcGIS Vector Tile Layer demo. The layer consists 
 Test out the demo [here](https://maplibre-gljs-vectortilelayer-demo.netlify.app/).
 
 ## Deploy the App to your Netlify
-This button allows you to create a copy of the application to your Github account and a deployed version to your Netlify account. <br/>
+This button allows you to create a copy of the application to your Github account and a deployed version to your Netlify account. Be sure to add the environment variable VITE_SOME_KEY with the value set as your API Key to your Netlify site. <br/>
 <a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/cyatteau/Deployed_MapLibre_GLJS_VectorTileLayer_Demo_Euro22_DevSummit"><img src="https://www.netlify.com/img/deploy/button.svg"></img></a>
 
 ## Required Dependencies <a name="dep"></a>
