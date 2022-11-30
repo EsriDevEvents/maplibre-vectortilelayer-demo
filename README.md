@@ -7,7 +7,7 @@ A MapLibre GL JS map using an ArcGIS Vector Tile Layer demo. The layer consists 
 ![MapLibre_Live_Demo_VectorTileLayer](https://user-images.githubusercontent.com/112517097/204543213-5a1ea349-d266-4147-94df-191d2444930a.gif)
 
 ## Live Demo
-
+Test out the demo [here](https://maplibre-gljs-vectortilelayer-demo.netlify.app/).
 
 ## Required Dependencies <a name="dep"></a>
 
